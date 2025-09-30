@@ -1,0 +1,53 @@
+
+
+Replacing null values :
+
+
+Median , Mean   ----> If the data is numerical 
+
+
+Mode      ----> IF the data categorical 
+
+
+
+loc ----> index_row_number , column_name
+
+* In the loc end point is included
+
+
+
+iloc  ---> index_row_number , Column_index
+
+* End point is exluded
+
+
+0	0	23.0	Ram	89.000000	B
+1	1	43.0	Deep	100.000000	A  
+2	3	13.0	Aman	78.000000	C
+3	4	67.0	Arjun	88.666667	E
+4	6	90.0	Divya	100.000000	A
+5	7	56.0	Chalsea	87.000000	A
+6	8	34.0	Akash	81.000000	B
+
+
+
+A        100+100+87/3    95..
+
+B        81+89 / 2       85
+
+C         78             78
+     
+E        88.             88.
+
+
+
+
+
+
+
+
+
+
+
+
+
